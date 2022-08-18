@@ -6,5 +6,4 @@ In the folder of each solution, I wrote the conditions and the task itself, so i
 
 P.S.: Maybe give me some advice :D.
 
-CodeWars: [codewars.com](https://www.codewars.com/){:target="_blank" rel="noopener"}<br>
-<a href="https://www.codewars.com/" target="_blank">codewars.com</a>
+CodeWars: [codewars.com](https://www.codewars.com/)
