@@ -6,4 +6,4 @@ In the folder of each solution, I wrote the conditions and the task itself, so i
 
 P.S.: Maybe give me some advice :D.
 
-CodeWars: [codewars.com]
+CodeWars: [codewars.com](codewars.com)
